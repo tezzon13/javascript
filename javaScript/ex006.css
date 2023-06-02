@@ -1,0 +1,16 @@
+button{
+    padding: 10px;
+    border-radius: 5px 5px 5px 5px ;
+    border: 2px solid black;
+}
+body{
+    background-color: rgb(204, 40, 138);
+}
+header{
+    width: 500px;
+    height: 300px;
+    background-color: beige;
+    border-radius: 20px 20px 20px 20px ;
+    margin: 0 auto;
+    text-align: center;
+}
